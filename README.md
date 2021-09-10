@@ -1,7 +1,7 @@
 Project 2 - Publish/Subscribe Framework
 =======================================
 
-*This project description is incomplete and will change.*
+*This project description is incomplete and will change.* 
 
 ### Due - Thursday , October 7, 2021 - 9:55am
 
@@ -16,7 +16,7 @@ Note, this program does not require a significant amount of code, however you wi
 
 This assignment has two parts:
 
-- Part 1 (95%) - Part 1 requires that you implement a program that will be run as a single Java process on one host. You will earn a maximum of 95% credit for completing the part 1 requirements. You *may* take advantage of [Project Resubmission as discussed on the Syllabus](https://cs601-f21.github.io/syllabus.html) if you meet all of the part 1 functionality requirements *even if you do not complete the part 2 functionality requirements*.
+- Part 1 (95%) - Part 1 requires that you implement a program that will be run as a single Java process on one host. You will earn a maximum of 95% credit for completing the part 1 requirements. You *may* take advantage of [Project Resubmission as discussed on the Syllabus](https://cs601-f21.github.io/syllabus.html) if you meet all of the part 1 functionality requirements *even if you do not complete the part 2 functionality requirements*. If you have not completed Part 2 functionality by the deadline, however, you will not earn credit for any resubmission *of Part 2*.
 - Part 2 (5%) - Part 2 requires that you implement a program that will allow a `Subscriber` to be executed on a remote host. This will require implementing client/server functionality as part of your solution.
 
 ## Requirements (Part 1)
@@ -181,6 +181,20 @@ To earn the final 5% on this assignment you will extend your part 1 implementati
 ![pubsub](https://github.com/CS601-F21/notes/blob/main/admin/images/pubsubdistributedproxy.jpg)
 
 
+## Team Option
+
+For this project, you have the *option* to work in a team of two students. Teams are not required, and teams may not exceed two students.
+
+### Team Requirements
+
+If you choose to work in a team, you must adhere to the following *additional* requirements:
+
+1. **By Thursday, September 23** *one* member of your team must complete the following form to establish your team: [Project 2 Team Submission](https://forms.gle/FFV73jZQtncMLtnG8)
+2. **By Thursday, September 30** *one* member of your team must complete the following form to describe your proposed distribution of work and resources you have used to learn how to write software as part of a team: [Project 2 Distribution of Work](https://forms.gle/ahcMtEZLved1bpLR9) It is okay if your distribution of work changes slightly before the final submission deadline; however, significant changes may result in a grade penalty.
+3. **By Thursday, October 7** *both* members of the team must complete the following form describing your design and implementation process and reflecting on what you learned from working in a team: [Project 2 Final Submission](https://forms.gle/G8Nv6apnCdhdh5B8A)
+4. Your interactive grading session must take place with Sami and will be longer in length. 
+5. Both team members are responsible for understanding *all* code submitted as part of the solution. During interactive grading, the instructor will ask each team member specific questions about the code design and implementation. If either team member is unable to answer a question asked of them the team will, at minimum, earn 0 for that criterion. A more severe penalty may be assigned if 
+
 ## Submission
 
 1. Use the following link to create your private github repository for this assignment: [Project 2](). **Note**, the repository is empty so you will need to set it up as required by the assignment.
@@ -197,15 +211,17 @@ Students who submit early and earn 100% may be eligible for an additional extra 
 
 | Points | Criterion |
 | ------ | -------- |  
+| Part 1 |  |  
 | 15 | **Functionality - Part 1** -  `SynchronousOrderedDispatchBroker` |  
 | 20 | **Functionality - Part 1** -  `AsyncUnorderedDispatchBroker` |  
 | 20 | **Functionality - Part 1** -  `AsyncOrderedDispatchBroker` |  
-| 5 | **Functionality - Part 1** -  Able to explain differences in running time for three `Broker`  implementations. |  
-| 5 | **Design - Part 1** - Design requirements implemented as specified. |  
+| 5 | **Functionality - Part 1** -  Differences in running time for three `Broker`  implementations are adequately explained. |  
+| 10 | **Design - Part 1** - Pub/sub framework design requirements are implemented as specified. For team submissions, failure to submit all required assignment components as described above, or submission of inadequate responses for the components described above, will result in a 0 for this criterion. |  
 | 5 | **Design - Part 1** - `shutdown` correctly implemented. |  
 | 5 | **Design - Part 1** - Thread safety implemented correctly. |  
-| 10 | **Design - Part 1** - Test Application design. |  
+| 5 | **Design - Part 1** - Test Application design. |  
 | 10 | **Design - Part 1** - Meets all style guidelines. |  
+| Part 2 ||  
 | 3 | **Functionality - Part 2** -  Demonstrates `Subscriber` and `Broker` running on separate hosts. |  
 | 2 | **Design - Part 2** -  Solution is well designed and part 1 components are minimally modified. |  
 
