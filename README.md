@@ -219,8 +219,8 @@ Students who submit early and earn 100% may be eligible for an additional extra 
 | 10 | **Design - Part 1** - Pub/sub framework design requirements are implemented as specified. For team submissions, failure to submit all required assignment components as described above, or submission of inadequate responses for the components described above, will result in a 0 for this criterion. |  
 | 5 | **Design - Part 1** - `shutdown` correctly implemented. |  
 | 5 | **Design - Part 1** - Thread safety implemented correctly. |  
-| 5 | **Design - Part 1** - Test Application design. |  
-| 10 | **Design - Part 1** - Meets all style guidelines. |  
+| 10 | **Design - Part 1** - Test Application design. |  
+| 5 | **Design - Part 1** - Meets all style guidelines. |  
 | Part 2 ||  
 | 3 | **Functionality - Part 2** -  Demonstrates `Subscriber` and `Broker` running on separate hosts. |  
 | 2 | **Design - Part 2** -  Solution is well designed and part 1 components are minimally modified. |  
