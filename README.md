@@ -193,7 +193,7 @@ If you choose to work in a team, you must adhere to the following *additional* r
 2. **By Thursday, September 30** *one* member of your team must complete the following form to describe your proposed distribution of work and resources you have used to learn how to write software as part of a team: [Project 2 Distribution of Work](https://forms.gle/ahcMtEZLved1bpLR9) It is okay if your distribution of work changes slightly before the final submission deadline; however, significant changes may result in a grade penalty.
 3. **By Thursday, October 7** *both* members of the team must complete the following form describing your design and implementation process and reflecting on what you learned from working in a team: [Project 2 Final Submission](https://forms.gle/G8Nv6apnCdhdh5B8A)
 4. Your interactive grading session must take place with Sami and will be longer in length. 
-5. Both team members are responsible for understanding *all* code submitted as part of the solution. During interactive grading, the instructor will ask each team member specific questions about the code design and implementation. If either team member is unable to answer a question asked of them the team will, at minimum, earn 0 for that criterion. A more severe penalty may be assigned if 
+5. Both team members are responsible for understanding *all* code submitted as part of the solution. During interactive grading, the instructor will ask each team member specific questions about the code design and implementation. If either team member is unable to answer a question asked of them the team will, at minimum, earn 0 for that criterion. A more severe penalty may be assigned if failure to answer is a result of academic dishonesty.
 
 ## Submission
 
