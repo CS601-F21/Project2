@@ -183,11 +183,11 @@ To earn the final 5% on this assignment you will extend your part 1 implementati
 
 ## Team Option
 
-For this project, you have the *option* to work in a team of two students. Teams are not required, and teams may not exceed two students.
+For this project, you have the *option* to work in a team of two students. Teams are not required, and teams may not exceed two students. 
 
 ### Team Requirements
 
-If you choose to work in a team, you must adhere to the following *additional* requirements:
+If you choose to work in a team, you must adhere to the following *additional* requirements. These are required of teams, and no extra credit will be awarded for completing these requirements. A penalty will be assessed for failure to meet these requirements.
 
 1. **By Thursday, September 23** *one* member of your team must complete the following form to establish your team: [Project 2 Team Submission](https://forms.gle/FFV73jZQtncMLtnG8)
 2. **By Thursday, September 30** *one* member of your team must complete the following form to describe your proposed distribution of work and resources you have used to learn how to write software as part of a team: [Project 2 Distribution of Work](https://forms.gle/ahcMtEZLved1bpLR9) It is okay if your distribution of work changes slightly before the final submission deadline; however, significant changes may result in a grade penalty.
@@ -197,16 +197,13 @@ If you choose to work in a team, you must adhere to the following *additional* r
 
 ## Submission
 
-1. Use the following link to create your private github repository for this assignment: [Project 2](). **Note**, the repository is empty so you will need to set it up as required by the assignment.
+1. Use the following link to create your private github repository for this assignment: [Project 2](https://classroom.github.com/a/kDDRJdEu). **Note**, the repository is empty so you will need to set it up as required by the assignment.
 2. For full credit, make sure to follow all [Style Guidelines](https://github.com/CS601-F21/notes/blob/main/admin/style.md). Points will be deducted for each violation.
-3. All code and the jar file described above must be submitted to your github repository by **Thursday, October 7, 2021 - 9:55am**.
-4. There are no unit test cases provided for this project, but during interactive grading you will be expected to demonstrate your solution running on at least two of the Amazon review datasets.
+3. All code and the jar file described above must be submitted to your github repository by **Thursday, October 7, 2021 - 9:55am**. Failure to submit the project as required will result in a score of 0.
+4. Interactive grading is required for this project. A signup form will be made available prior to the deadline. You **must** be present for your interactive grading session on or before the day the project is due. Failure to demonstrate the functionality described below to the instructor or a TA will result in a score of 0.
+5. There are no unit test cases provided for this project, but during interactive grading you will be expected to demonstrate your solution running on at least two of the Amazon review datasets.
 
-<!--## Extra Credit
-You may earn up to one (1) point of extra credit by completing interactive grading and submitting all required code during the professor's office hours on or before Friday, October 5, 2018. Note that office hours are first come, first served and students with assignment questions have priority over students wishing to complete early interactive grading. To earn the extra credit it is suggested you come for interactive grading well before the deadline!
 
-Students who submit early and earn 100% may be eligible for an additional extra credit assignment given at the time of submission. Note that additional extra credit will only be awarded *after* a student has earned 100% on his/her solution.
--->
 ## Grading Rubric
 
 | Points | Criterion |
